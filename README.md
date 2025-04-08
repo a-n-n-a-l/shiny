@@ -25,6 +25,7 @@ In addition to the information that was color coded, the pop-up will include som
 - the change in the income from 1975 to 2023
 
 You can find this Shiny app with more documentation in my repository on the <a href='https://a-n-n-a-l.shinyapps.io/shiny/'>Shiny server</a>.  
+The reproducible pitch presentation can been seen on <a href='https://a-n-n-a-l.github.io/shiny/'>GitHub Pages</a>.  
 The *server.R* and *ui.R* files are available in my <a href='https://github.com/a-n-n-a-l/shiny'>GitHub</a> repository.  
   
 The data for this map was taken from the following sources: 
